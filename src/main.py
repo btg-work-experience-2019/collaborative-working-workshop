@@ -1,5 +1,8 @@
 '''
+feature/tj
 A mega greeting module. Thomas Jence.
+Leonardo was here, and daniel, and Kacper
+
 '''
 
 from sam.greeting.greeter import Greeter as SamGreeter
