@@ -1,6 +1,8 @@
+'Kacper'
+
 '''
 A mega greeting module.
-kieran's change
+Leonardo was here, and daniel. kieran is the best though.
 '''
 
 from sam.greeting.greeter import Greeter as SamGreeter
