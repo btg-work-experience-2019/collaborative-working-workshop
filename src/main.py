@@ -1,5 +1,5 @@
 '''
-A mega greeting module.
+A mega greeting module. Thomas Jence.
 '''
 
 from sam.greeting.greeter import Greeter as SamGreeter
