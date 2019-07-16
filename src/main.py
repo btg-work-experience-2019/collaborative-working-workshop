@@ -1,5 +1,6 @@
 '''
 A mega greeting module.
+Daniel
 '''
 
 from sam.greeting.greeter import Greeter as SamGreeter
