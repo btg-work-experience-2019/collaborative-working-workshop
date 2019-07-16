@@ -1,7 +1,13 @@
+
 '''
+Daniel
+
+A mega greeting module. Thomas Jence.
+Leonardo was here, and daniel, and Kacper
+A mega greeting module.
+Leonardo was here, and daniel. kieran is the best though.
 A mega greeting module. this is very hardddd.
 
-Daniel
 '''
 
 from sam.greeting.greeter import Greeter as SamGreeter
@@ -17,3 +23,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+'Rony'
