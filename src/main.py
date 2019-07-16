@@ -1,6 +1,6 @@
 '''
 A mega greeting module.
-Daniel
+Leonardo was here, and daniel
 '''
 
 from sam.greeting.greeter import Greeter as SamGreeter
