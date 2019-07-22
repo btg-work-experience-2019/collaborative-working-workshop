@@ -9,3 +9,12 @@ Engineers are expected to:
 * Create a PR to the master branch
 * Assist in code review of other commits
 * Merge their approved changes to master
+
+Great engineers are expected to:
+* Create a class in the `src/` directory with a `print_name()` method, which will return their name
+* Add a unit test to verify that the method returns their name
+* Run tests locally to verify that the tests pass
+* Commit the code to a new branch and create a Pull-Request to have the code reviewed
+* See the results of the tests running in Travis on the PR page
+
+**Note:** Travis is set up already, so the tests should start automatically.
